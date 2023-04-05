@@ -1,11 +1,11 @@
 body {
   text-align: center;
-  background-color: #011F3F;
+  background-color: #303841 ;
 }
 
 #level-title {
-  font-family: 'Press Start 2P', cursive;
-  font-size: 3rem;
+  font-family: 'Varela Round', cursive;
+  font-size: 4.5rem;
   margin:  5%;
   color: #FEF2BF;
 }
@@ -27,24 +27,24 @@ body {
 }
 
 .game-over {
-  background-color: red;
+  background-color: #FF4136;
   opacity: 0.8;
 }
 
 .red {
-  background-color: red;
+  background-color:#FFB6C1;
 }
 
 .green {
-  background-color: green;
+  background-color: #98FB98 ;
 }
 
 .blue {
-  background-color: blue;
+  background-color:#ADD8E6 ;
 }
 
 .yellow {
-  background-color: yellow;
+  background-color: #F0E68C ;
 }
 
 .pressed {
